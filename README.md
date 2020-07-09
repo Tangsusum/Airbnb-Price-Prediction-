@@ -13,6 +13,6 @@ compared to more complex models such as XG Boosting, Light GBM, random forest, g
 are validated through k fold cross validation and evaluated using the test root mean square
 logarithm error (RMSLE).
 
-Our data mining model suggest features relating to the size, location and
+Our data mining model suggests features relating to the size, location and
 some other characteristics such as additional charges are of critical importance in determining the
 house price. These predictors are generally aligned with our hypothesis. 
