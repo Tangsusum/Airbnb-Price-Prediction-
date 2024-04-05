@@ -1,4 +1,4 @@
-# Airbnb-Price-Prediction-
+# Airbnb-Price-Prediction
 
 Airbnb is an online marketplace where hosts are able to offer their properties for short-term rental.
 Airbnb has become increasingly popular where Australia has seen a surge in Airbnb listings. For hosts
